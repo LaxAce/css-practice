@@ -103,7 +103,7 @@ nav li {
 }
 
 .sm-text {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     font-weight: 300;
     color: var(--deep-gray);
 }
@@ -154,6 +154,7 @@ h2 {
 .sm-img {
     width: 100%;
     height: 10rem;
+    margin-bottom: 2rem;
 }
 
 .sm-img .img {
