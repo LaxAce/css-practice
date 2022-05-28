@@ -195,7 +195,13 @@ h3 {
 footer {
     background-color: var(--deep-blue);
     color: var(--white);
-    text-align: center;
     padding: 2.3rem 0;
     font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer .sm-text {
+    color: var(--white);
 }
